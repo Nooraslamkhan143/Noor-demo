@@ -1,2 +1,3 @@
 # Noor-demo
-Demo Project
+Demo Project for training
+Author - Noor Aslam Khan
